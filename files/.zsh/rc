@@ -1,0 +1,7 @@
+. ~/.zsh/aliases # shell aliases
+. ~/.zsh/git # git aliases
+
+export ZSH=/Users/edward_smith26/.oh-my-zsh
+export PATH="/Users/edward_smith26/.npm-packages/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/usr/local/mongodb/bin"
+
+source $ZSH/oh-my-zsh.sh
