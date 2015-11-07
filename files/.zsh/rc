@@ -1,3 +1,4 @@
+. ~/.zsh/options # zsh options
 . ~/.zsh/aliases # shell aliases
 . ~/.zsh/git # git aliases
 
