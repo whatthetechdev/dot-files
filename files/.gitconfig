@@ -1,0 +1,17 @@
+[push]
+	default = upstream
+[user]
+  name = ezmionline
+  email = edward@ezmi.co.uk
+[color]
+	ui = auto
+[core]
+  excludesfile = /Users/edward_smith26/.gitignore_global
+  editor = atom --wait
+  autocrlf = input
+[github]
+	user = ezmionline
+[diff]
+	submodule = log
+[column]
+	ui = auto,dense
