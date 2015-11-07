@@ -3,6 +3,7 @@ s() {
   return 0
 }
 alias ga='git add -A'
+alias gac='ac = !git add . && git commit -am'
 alias gap='ga -p'
 alias gau='git add -u'
 alias gbr='git branch -v'
