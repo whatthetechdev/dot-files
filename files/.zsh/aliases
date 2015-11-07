@@ -1,0 +1,17 @@
+# useful
+alias l='ls'
+alias ll='ls -lh'
+alias la='ls -a'
+alias ..="cd ../"
+alias ...="cd ../../"
+
+# workflow
+alias sites="cd ~/Sites/"
+alias projects="cd ~/Sites/projects"
+alias code="cd ~/Sites/code"
+alias desk="cd ~/Desktop/"
+
+# extensions
+cd() {
+  builtin cd "$@" && ls
+}
