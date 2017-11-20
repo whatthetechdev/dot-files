@@ -4,6 +4,7 @@
 
 export ZSH=/Users/edward_smith26/.oh-my-zsh
 export PATH="/Users/ezmi/.npm-packages/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/usr/local/mongodb/bin:/usr/local/share/dotnet"
+export ASPNETCORE_ENVIRONMENT=development
 
 source $ZSH/oh-my-zsh.sh
 
